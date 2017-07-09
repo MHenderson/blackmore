@@ -1,0 +1,10 @@
+Package: blackmore
+Title: Poems of Rural Life in the Dorset Dialect
+Version: 0.0.0.9000
+Authors@R: person("First", "Last", email = "first.last@example.com", role = c("aut", "cre"))
+Description: A data package containing poetry written in Dorset dialect by
+    the likes of William Barnes.
+Depends: R (>= 3.3.1)
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
